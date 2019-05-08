@@ -13,3 +13,7 @@ The objective of this project was to model the rental prices for Airbnb apartmen
 * Rows: 77000+ 
 * Columns: 97
 * Source: [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html)
+----
+<p>Thank You!	
+<p><!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ShehzadaAlam" aria-label="Follow @ShehzadaAlam on GitHub">Follow @ShehzadaAlam</a>
